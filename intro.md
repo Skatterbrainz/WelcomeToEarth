@@ -4,4 +4,4 @@ This book is a collection of possible future events wherein visitors to Earth en
 
 The names and places have been changed to protect the future.
 
-[[Home]](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/README.md) [[Next>]](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter1.md)
+[Home](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/README.md) - [Introduction](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/intro.md) - [Chapter 1 >](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter1.md)
