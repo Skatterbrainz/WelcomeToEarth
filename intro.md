@@ -14,6 +14,6 @@ I'd like to keep this PG or PG13, whatever those translate to nowadays.
 
 Now, add a chapter and have some fun!
 
-Clone the [template](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/template.md) to add your chapter now.
+Clone the [template](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/template.md) to add your chapter now. Don't worry about the chapter number, or the footer links (next/previous). I will fill those in if/when your chapter is reviewed and published. Don't forget to include your name and (if possible) link to your GitHub profile.
 
 [Home](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/README.md) - [Next >](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter1.md)
