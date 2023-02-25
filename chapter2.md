@@ -25,4 +25,4 @@ So, the visitors vaporized all of them, and then vaporized the entire planet.
 The End
 
 
-[Home](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/README.md) - [< Chapter 1](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter1.md) - [Chapter 2]([https://github.com/Skatterbrainz/WelcomeToEarth/new/main/chapter2.md - [Chapter 3 >]([https://github.com/Skatterbrainz/WelcomeToEarth/new/main/chapter3.md](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter3.md))
+[Home](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/README.md) - [< Chapter 1](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter1.md) - [Chapter 2]([https://github.com/Skatterbrainz/WelcomeToEarth/new/main/chapter2.md) - [Chapter 3 >]([https://github.com/Skatterbrainz/WelcomeToEarth/new/main/chapter3.md](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter3.md))
