@@ -12,3 +12,7 @@
 * [Template](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/template.md)
 
 An open-source story. Built today for people in the future. Which will someday be today.
+
+### Overview
+
+Feel free to clone the ["template"](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/template.md) to add your own chapters!
