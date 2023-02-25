@@ -18,7 +18,7 @@ One of the visitors, a teenage girl, raised her hands and greeted them,
 
 "Welcome to Earth!" followed by an ecstatic giggle, like normally heard at a music concert. And she ran towards them, with arms outstretched, as if to give them all a big hug. The pitch of her giggling laugh was unstable as each foot landed on the uneven dirt and she struggled to catch her breath.
 
-It was at exact moment, that the girl, and most of the nearby crowd, realized that approaching them without being requested was perceived as a direct mortal threat.
+It was at that very exact moment, that the girl, and most of the nearby crowd, realized that approaching them without being requested was perceived as a direct mortal threat.
 
 So, the visitors vaporized all of them, and then vaporized the entire planet.
 
