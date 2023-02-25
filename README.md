@@ -1,2 +1,5 @@
 # WelcomeToEarth
-The Book
+
+## The Book
+
+&copy; 2023 David M. Stein
