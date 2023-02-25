@@ -2,7 +2,7 @@
 
 by [YOUR_NAME_HERE](https://github.com/USERNAME)
 
-It was a ____, ____ Tuesday in ____, in early May, which is typical for most days in the ____. But unlike mid-Summer, it wasn't a ____ day either. There were only a few puffy white clouds scattered across the vast blue field above. Which any of them could turn into a super cell and spawn deadly tornados in the blink of an eye.
+It was a ____, ____ Tuesday in ____, in early May, which is typical for most days in the ____. But unlike mid-Summer, it wasn't a ____ day either. There were only a few puffy white clouds scattered across the vast blue field above. [Which any of them could turn into a super cell and spawn deadly tornados in the blink of an eye].
 
 Then a strange glow formed in one part of the sky. It was white at first, then dark gray, and soon the tornado sirens began firing up in the distance. But then it lightened up again and turned yellowish, then firey orange and red, with sparks of white trailing out from around the outer edges.
 
