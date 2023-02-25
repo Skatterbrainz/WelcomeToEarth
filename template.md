@@ -1,4 +1,6 @@
-# Chapter X - First ____ Visit
+# Chapter X - ____ Visit
+
+by YOUR_NAME_HERE
 
 It was a ____, ____ Tuesday in ____, in early May, which is typical for most days in the ____. But unlike mid-Summer, it wasn't a ____ day either. There were only a few puffy white clouds scattered across the vast blue field above. Which any of them could turn into a super cell and spawn deadly tornados in the blink of an eye.
 
@@ -22,4 +24,4 @@ So, the visitors vaporized all of them, and then vaporized the entire planet.
 
 The End
 
-[Home](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/README.md) - [< Previous] - [Chapter 3] - [Next >]
+[Home](./README.md) - [< Previous] - [Chapter 3] - [Next >]
