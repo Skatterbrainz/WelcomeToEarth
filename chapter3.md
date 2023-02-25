@@ -14,7 +14,7 @@ A hatch opened beneath, and three creatures floated out slowly in a sequential f
 
 The three visitors floated up to within a few meters of the crowd.
 
-One of the visitors, a teenage birthing person, raised her hands and greeted them. One hand opened wide, palms facing the visitors. The other holding a blunt and a venti Starbucks coffee cup, half-full of a soy latte with steamed almond milk. Because, in Seattle, in May, every container with 50 percent of a caffeinated liquid has to be identified as "half-full" as opposed to "half-empty", or it risks being ostrasized by the International Seasonal Affective Disorder Society, or ISADS for short.
+One of the visitors, a teenage birthing person, raised her, I mean "its" hands and greeted them. One hand opened wide, palms facing the visitors. The other holding a blunt and a venti Starbucks coffee cup, half-full of a soy latte with steamed almond milk. Because, in Seattle, in May, every container with 50 percent of a caffeinated liquid has to be identified as "half-full" as opposed to "half-empty", or it risks being ostrasized by the International Seasonal Affective Disorder Society, or ISADS for short.
 
 It was at that very exact moment, that the birthing person, and most of the nearby crowd of self-identifying humans and furries, realized that raising inanimate objects overhead was considered an obscene and vulger threat.
 
