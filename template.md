@@ -24,4 +24,4 @@ So, the visitors vaporized all of them, and then vaporized the entire planet.
 
 The End
 
-[Home](./README.md) - [< Previous] - [Chapter 3] - [Next >]
+[Home](./README.md) - [< Previous](./chapter3.md) - [Next >](./chapter5.md)
