@@ -1,5 +1,7 @@
 # Chapter 1 - The First Visit
 
+by Skatterbrainz
+
 It was a clear, sunny Tuesday in Arizona, in early May, which is typical for most days in the southwest state. But unlike mid-Summer, it wasn't a melting-hot day either. There were only a few puffy white clouds scattered across the vast blue field above.
 
 Then a strange glow formed in one part of the sky. It was white at first, then yellowis, then firey orange and red, with sparks of white trailing out from around the outer edges.
