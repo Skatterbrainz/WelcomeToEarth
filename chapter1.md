@@ -1,6 +1,6 @@
 # Chapter 1 - The First Visit
 
-by Skatterbrainz
+by [Skatterbrainz](https://github.com/Skatterbrainz)
 
 It was a clear, sunny Tuesday in Arizona, in early May, which is typical for most days in the southwest state. But unlike mid-Summer, it wasn't a melting-hot day either. There were only a few puffy white clouds scattered across the vast blue field above.
 
@@ -28,4 +28,4 @@ But the crowd barely had time to allow their jaws to slacken, before the visitor
 
 The End
 
-[Home](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/README.md) - [<Intro](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/intro.md) - [Chapter 1](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter1.md) - [Chapter 2>](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter2.md)
+[Home](./README.md) - [< Previous](./intro.md) - [Next 2>](./chapter2.md)
