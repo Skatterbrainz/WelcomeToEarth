@@ -14,7 +14,7 @@ The names and places have been changed to protect the future.
 
 ### How Does This Work?
 
-It doesn't. There's no _work_ being done here. It's all play. Start with the [Disclaimers](./intro.md) page to learn what this is all about. After that, read [Chapter 1](./chapter1.md) to see an example. Then, grab a copy of the [Disclaimers](./template.md) and fill it in to make your own chapter (or three).
+It doesn't. There's no _work_ being done here. It's all play. Start with the [Disclaimers](./intro.md) page to learn what this is all about. After that, read [Chapter 1](./chapter1.md) to see an example. Then, grab a copy of the [template](./template.md) and fill it in to make your own chapter (or three).
 
 Thank you!
 
