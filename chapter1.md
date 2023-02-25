@@ -18,7 +18,7 @@ One of the visitors, a teenage girl, raised her hands and greeted them,
 
 "Welcome to Earth!" followed by an ecstatic giggle, like normally heard at a music concert.
 
-It was at exact moment, that the girl, and most of the nearby crowd, realized that those three words didn't translate into the language used by the visitors. What they didn't know at the time, was that it literally translated to the visitors as:
+It was at that very exact moment, that the girl, and most of the nearby crowd, realized that those three words didn't translate into the language used by the visitors. What they didn't know at the time, was that it literally translated to the visitors as:
 
 "We wish to kill and eat you all!"
 
