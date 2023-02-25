@@ -28,4 +28,4 @@ But the crowd barely had time to allow their jaws to slacken, before the visitor
 
 The End
 
-[Home](./README.md) - [< Previous](./intro.md) - [Next 2>](./chapter2.md)
+[Home](./README.md) - [< Previous](./intro.md) - [Next >](./chapter2.md)
