@@ -1,6 +1,6 @@
 # Chapter 3 - Another First Visit
 
-It was a clear, sunny Tuesday in Seattle, in early May, which is typical for most days in the southwest state. But unlike mid-Summer, it wasn't a melting-hot day either. There were only a few puffy white clouds scattered across the vast blue field above. Wait. Who are we trying to fool here? It's Seattle in May, so the only blue things in the sky are Delta flights leaving SEA on their way to places where the sun can be seen.
+It was a clear, sunny Tuesday in Seattle, in early May, which is typical for most days in the northwest American state. But unlike mid-Summer, it wasn't a melting-hot 70 F day either. There were only a few puffy white clouds scattered across the vast blue field above. Wait. Who are we trying to fool here? It's Seattle in May, so the only blue things in the sky are Delta flights leaving SEA on their way to places where the sun can be seen.
 
 Then a strange glow formed in one part of the sky. It was white at first, then dark gray, then a darker gray, almost as dark as the normal dark gray that covers most of the Puget Sound outside of the months of June and July. But then it lightened up again and turned yellowish, then firey orange and red, with sparks of white trailing out from around the outer edges.
 
