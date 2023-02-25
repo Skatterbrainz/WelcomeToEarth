@@ -11,4 +11,4 @@
 * Chapter 4
 * [Template](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/template.md)
 
-&copy; 2023 David M. Stein
+An open-source story. Built today for people in the future. Which will someday be today.
