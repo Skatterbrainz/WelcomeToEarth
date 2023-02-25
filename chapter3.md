@@ -23,4 +23,4 @@ So, the visitors vaporized all of them, and then vaporized the entire planet.
 The End
 
 
-[Home](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/README.md) - [< Previous](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter2.md) - [Next >](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter4.md)
+[Home](./README.md) - [< Previous](./chapter2.md) - Next >
