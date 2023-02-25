@@ -10,7 +10,7 @@ Suddenly, a smooth metallic object appeared from the center of the glow, with a 
 
 The object, gleaming with a skin of mirror-like silver, looked more like a blob of mercury than a hard object.
 
-As it neared the desert surface a mile off of the nearest road, it pushed up an enormous cloud of dust and debris in all directions. Eventually, the fog dissipated. THe object was motionless, as if it had landed on legs, but it had no legs or visible support of any kind. It was levetating completely still.
+As it neared the desert surface a mile off of the nearest road, it pushed up an enormous cloud of dust and debris in all directions. Eventually, the fog dissipated. The object was motionless, as if it had landed on cactus stalks, but it had no legs or visible support of any kind. It was levitating completely still.
 
 A hatch opened beneath, and three creatures floated out slowly in a sequential fashion. The crowds began forming along the roadway, some leaning out through their vehicle windows, some standing beside their vehicles. Others climbed atop the roofs or truck beds, or just wandered out into the scrub, not caring about bumping into a thorny cactus.
 
