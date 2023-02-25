@@ -1,6 +1,12 @@
-# WelcomeToEarth
+# Welcome To Earth
 
-## The Book
+## An Open Source Book
+
+Built today for people in the future. Which will someday be today.
+
+### Overview
+
+The goal of this is to have a little with all the different ways humans could unintentionally trigger future alien visitors into destroying our planet.  Feel free to clone the ["template"](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/template.md) to add your own chapters!
 
 ### Contents
 
@@ -10,9 +16,3 @@
 * [Chapter 3](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter3.md)
 * Chapter 4
 * [Template](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/template.md)
-
-An open-source story. Built today for people in the future. Which will someday be today.
-
-### Overview
-
-Feel free to clone the ["template"](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/template.md) to add your own chapters!
