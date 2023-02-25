@@ -2,7 +2,7 @@
 
 ## An Open Source Book
 
-Built today for people in the future. Which will someday be today.
+Built today for people in the future, which will someday be today.
 
 ### Overview
 
@@ -14,5 +14,5 @@ The goal of this is to have a little with all the different ways humans could un
 * [Chapter 1](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter1.md)
 * [Chapter 2](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter2.md)
 * [Chapter 3](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/chapter3.md)
-* Chapter 4
+* Chapter 4 (Your Chapter Here)
 * [Template](https://github.com/Skatterbrainz/WelcomeToEarth/blob/main/template.md)
