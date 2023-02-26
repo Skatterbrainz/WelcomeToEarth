@@ -24,5 +24,6 @@ Thank you!
 * [Chapter 1](./chapter1.md)
 * [Chapter 2](./chapter2.md)
 * [Chapter 3](./chapter3.md)
-* Chapter 4 (Your Chapter Here)
+* [Chapter 4](./chapter4.md)
+* Chapter 5 (Your Chapter Here)
 * [Template](./template.md)
