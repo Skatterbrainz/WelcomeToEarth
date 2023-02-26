@@ -24,7 +24,7 @@ One of the visitors, Jim, walked out first. As he approached, he was starting to
 
 Jim couldn't help but laugh.
 
-It was at that very exact moment, that Jim, and all of the spectators within range, realized that they were extremely offended.
+It was at that very exact moment, that Jim, and all of the spectators within range, realized that the vistors were extremely offended.
 
 So, the visitors vaporized all of them, and then vaporized the entire planet.
 
